@@ -1,4 +1,4 @@
-# DAILy-SELLER
+# DAILY-SELLER
 This repository contains python files which creates a simple E-commerce shopping system
 Problem Statement
 Functions can be performed:
