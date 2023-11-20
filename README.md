@@ -18,4 +18,9 @@ Techniques used:
 2.Prototype design pattern: Instead of creating a new object to add it to the cart,the product in the product_registry is cloned
 3.Strategy design pattern: This design pattern is used to implement discount features like buy-one-get-one-free and percentage offer
 
-To use:
+# To Run:
+1. Clone the repo
+2. Run the Main program (Make sure to keep all the script files in same directory)
+
+# Happy Shopping !!!
+         
