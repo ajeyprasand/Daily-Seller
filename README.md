@@ -20,7 +20,7 @@ Techniques used:
 
 # To Run:
 1. Clone the repo 
-2. Run the Main program (Make sure to keep all the script files in same directory)
+2. Run the Main program using any python compiler (Make sure to keep all the script files in same directory)
 
 # Happy Shopping !!!
          
