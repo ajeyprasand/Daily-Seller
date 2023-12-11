@@ -47,7 +47,6 @@ class Product(ABC):
   def display_created_products(cls):
     if cls.product_registry:
       print("Products Listed Currently:")
-      available=0
       for product in cls.product_registry:
         print(f"Id: {product.get_id()}, Name: {product.get_name()}, Price: Rs.{product.get_price()}")
       return True
