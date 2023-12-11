@@ -6,11 +6,11 @@ Functions can be performed:
 2. Cart Functionality(made user-interactive):
          i)Add a product to cart
         ii)View current items in cart
-       iii)Updating quantity of a product which exists in cart
-        iv)Remove a product form cart
+       iii)Updating quantity of a product which exists in cart\
+        iv)Remove a product form cart\
          v)Display the total bill
-3. Discounts feature is present which can be modified during creation of cart object:
-         i)Percentage off: This is applied to the total bill
+3. Discounts feature is present which can be modified during creation of cart object:\
+         i)Percentage off: This is applied to the total bill\
          ii)Buy-One-Get-One free: This is applied on each product (depends on quantity of the product) 
 
 Techniques used:
